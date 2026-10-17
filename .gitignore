@@ -1,0 +1,16 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.marker_venv/
+
+# indexes, textbooks and generated exams
+qdrant_storage/
+*.pkl
+data/
+output/
+*.docx
